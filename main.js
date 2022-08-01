@@ -7,4 +7,5 @@ addToDoButton.addEventListener('click', function(){
     paragraph.classList.add('paragraph-styling');
     paragraph.innerText = inputField.value;
     toDoContainer.appendChild(paragraph);
+    inputField.value = ''
 })
