@@ -16,3 +16,11 @@ html, body{
     font-size: 25px;
     vertical-align: middle;
 }
+
+#addToDo{
+    height: 50px;
+    width: 50px;
+    border: 1px solid black;
+    vertical-align: middle;
+    font-size: 30px;
+}
